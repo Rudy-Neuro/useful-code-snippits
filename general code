@@ -1,1 +1,7 @@
+# Calculator
 
+def adding(a, b):
+    return a + b
+
+def multiplying(a, b):
+    return a * b
